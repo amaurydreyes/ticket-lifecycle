@@ -1,14 +1,9 @@
-<p align="center">
+#<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -20,36 +15,47 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Ticket Lifecycle Stages</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Intake
+- Assignment and Communication
+- Working the Issue
+- Resolution
 
-<h2>Configuration Steps</h2>
+<h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h3>Intake</h3>
+Intake occurs when a user submits a ticket to the helpdesk. Down below is an example of a problem that can occur.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/olRAUJY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/nV90SeL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
+
+<h3>Assignment and Communication</h3>
+Typically, an administrator, manager, or supervisor will decide which employee should resolve which ticket. The person in charge of assigning tickets will make that decision because there are typically several levels of priority. In this instance, Jane is giving herself the ticket to solve the Sev-A problem.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NTfjBiD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/GKTuHGe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
+
+<h3>Working the Issue</h3>
+In this example, Jane is responding to the user and handling the ticket. Jane is collaborating with a different department to fix the problem.
+
+<p>
+<img src="https://i.imgur.com/GJ1xdm3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h3>Resolution</h3>
+In this last example, Jane was successful in notifying the individual of the problem and resolving it. The ticket has been closed as a result.
+
+<p>
+<img src="https://i.imgur.com/QeBvpvA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+Congratulations! You successfully completed your first ticket! Get more familiar and comfortable with the ticketing system, I would suggest working on more tickets to gain confidence, consistency and practice. The ticketing system is vital in the Help Desk profession.
